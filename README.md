@@ -25,7 +25,7 @@ Add this Git repo to buildpacks list in your app.json file, e.g.:
     "url": "heroku/nodejs"
   },
   {
-    "url": "https://github.com/velizarn/heroku-buildpack-exiftool.git"
+    "url": "https://github.com/notabli/heroku-buildpack-exiftool.git"
   }
 ]
 ```
