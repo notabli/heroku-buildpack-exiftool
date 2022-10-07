@@ -13,7 +13,7 @@ Usage
 ## Configure from CLI
 
 ```bash
-heroku buildpacks:add https://github.com/velizarn/heroku-buildpack-exiftool
+heroku buildpacks:add https://github.com/notabli/heroku-buildpack-exiftool
 ```
 
 ## Configure from app manifest
